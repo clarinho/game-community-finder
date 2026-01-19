@@ -1,4 +1,4 @@
-from twitch_finder.runners import App
+from community_finder.runners import App
 
 def main() -> None:
     App().run()
