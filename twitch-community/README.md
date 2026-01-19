@@ -23,9 +23,7 @@ A Windows-friendly Python script that discovers **League of Legends** Twitch str
   - Stores Discord results in `discord_cache.json` to reduce repeated scraping
 
 ## Example Output
-![alt text][logo]
-
-[logo]: https://github.com/clarinho/discord-osint/blob/main/images/WindowsTerminal_sIO41v9DcT.png "Example Output"
+<img width="575" height="235" alt="WindowsTerminal_sIO41v9DcT" src="https://github.com/user-attachments/assets/37a99830-2be8-4bc6-8656-de1ca368029a" />
 
 ## Requirements
 - Windows 10/11 recommended
