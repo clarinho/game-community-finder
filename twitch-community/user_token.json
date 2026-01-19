@@ -1,0 +1,9 @@
+{
+  "access_token": "wf9oewu98g723e99hrscw8cyjn5xjf",
+  "expires_in": 13164,
+  "refresh_token": "8xsr1a4pqdhh3tcqtj0stkcyfsxpme8t9vrubse0tgpmuti5nv",
+  "scope": [
+    "user:read:follows"
+  ],
+  "token_type": "bearer"
+}

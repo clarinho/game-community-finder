@@ -1,0 +1,7 @@
+secrets.json
+discord_cache.json
+config
+filters
+__pycache__/
+*.pyc
+images/
