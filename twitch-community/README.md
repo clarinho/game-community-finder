@@ -36,5 +36,5 @@ A Windows-friendly Python script that discovers **League of Legends** Twitch str
 Install Python dependencies:
 
 ```bash
-py -m pip install requests selenium
+pip install requests selenium
 ```
