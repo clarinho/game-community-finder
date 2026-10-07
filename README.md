@@ -62,6 +62,9 @@ Before starting, install:
 - **ChromeDriver**
 - A **Twitch account**
 - A **Twitch Developer application**
+- **Python Packages:**
+  - `requests`
+  - `selenium`
 
 Git is also recommended if you are cloning the repository.
 
