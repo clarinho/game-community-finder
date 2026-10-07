@@ -33,12 +33,6 @@ A Windows-friendly Python script that discovers **League of Legends** Twitch str
   - `requests`
   - `selenium`
 
-Install Python dependencies:
-
-```bash
-pip install requests selenium
-```
-
 # Twitch Community Finder
 
 A command-line tool for discovering Twitch streamers and locating Discord communities associated with their channels.
