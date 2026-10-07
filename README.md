@@ -267,7 +267,7 @@ This is not:
 
 # Running the Program
 
-## 9. Start the Application
+## 8. Start the Application
 
 From inside:
 
