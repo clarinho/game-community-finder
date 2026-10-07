@@ -265,27 +265,6 @@ This is not:
 
 ---
 
-## 8. Protect Local Credentials and Tokens
-
-Make sure `.gitignore` contains:
-
-```gitignore
-secrets.json
-user_token.json
-discord_cache.json
-__pycache__/
-*.pyc
-.venv/
-```
-
-`secrets.json` contains your Twitch application secret.
-
-`user_token.json` is automatically created when you authorize your Twitch account for features that require user access. It contains OAuth credentials and **must not be committed to GitHub**.
-
-If either file is accidentally committed to a public repository, consider the credentials compromised and revoke/regenerate them.
-
----
-
 # Running the Program
 
 ## 9. Start the Application
